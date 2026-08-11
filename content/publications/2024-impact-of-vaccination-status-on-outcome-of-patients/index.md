@@ -1,0 +1,65 @@
+---
+title: "Impact of Vaccination Status on Outcome of Patients With COVID-19 and Acute Ischemic Stroke Undergoing Mechanical Thrombectomy"
+authors:
+  - "Cornelius Deuschl"
+  - "Lukas Goertz"
+  - "Christoph Kabbasch"
+  - "Martin Köhrmann"
+  - "Christoph Kleinschnitz"
+  - "Ansgar Berlis"
+  - "Christoph Johannes Maurer"
+  - "Iris Mühlen"
+  - "Bernd Kallmünzer"
+  - "Matthias Gawlitza"
+  - me
+  - "Joachim Klisch"
+  - "Donald Lobsien"
+  - "Daniel Behme"
+  - "Maximilian Thormann"
+  - "Fabian Flottmann"
+  - "Laurens Winkelmeier"
+  - "Elke Ruth Gizewski"
+  - "Lukas Mayer-Suess"
+  - "Markus Holtmannspoetter"
+  - "Christoph Moenninghoff"
+  - "Martin Schlunz-Hendann"
+  - "Dominik Grieb"
+  - "Christophe T. Arendt"
+  - "Ferdinand O. Bohmann"
+  - "Jens Altenbernd"
+  - "Yan Li"
+  - "Ulrich Sure"
+  - "Ruben Mühl-Benninghaus"
+  - "Thomas Rodt"
+  - "Kai Kallenberg"
+  - "Alexandru Durutya"
+  - "Mohamed Elsharkawy"
+  - "Christian-Paul Stracke"
+  - "Mathias Gerhard Schumann"
+  - "Alexander Bock"
+  - "Omid Nikoubashman"
+  - "Martin Wiesmann"
+  - "Hans Henkes"
+  - "Sebastian Dolff"
+  - "Aydin Demircioglu"
+  - "Michael Forsting"
+  - "Hanna Styczen"
+date: "2024-05-07T00:00:00Z"
+publishDate: "2024-05-07T00:00:00Z"
+publication_types: ["article-journal"]
+publication: "*Journal of the American Heart Association*, *13*(9), e031816"
+publication_short: ""
+abstract: "BACKGROUND: Data on impact of COVID-19 vaccination and outcomes of patients with COVID-19 and acute ischemic stroke undergoing mechanical thrombectomy are scarce. Addressing this subject, we report our multicenter experience.METHODS AND RESULTS: This was a retrospective analysis of patients with COVID-19 and known vaccination status treated with mechanical thrombectomy for acute ischemic stroke at 20 tertiary care centers between January 2020 and January 2023. Baseline demographics, angiographic outcome, and clinical outcome evaluated by the modified Rankin Scale score at discharge were noted. A multivariate analysis was conducted to test whether these variables were associated with an unfavorable outcome, defined as modified Rankin Scale score >3. A total of 137 patients with acute ischemic stroke (48 vaccinated and 89 unvaccinated) with acute or subsided COVID-19 infection who underwent mechanical thrombectomy attributable to vessel occlusion were included in the study. Angiographic outcomes between vaccinated and unvaccinated patients were similar (modified Thrombolysis in Cerebral Infarction ≥2b: 85.4% in vaccinated patients versus 86.5% in unvaccinated patients; P=0.859). The rate of functional independence (modified Rankin Scale score, ≤2) was 23.3% in the vaccinated group and 20.9% in the unvaccinated group (P=0.763). The mortality rate was 30% in both groups. In the multivariable analysis, vaccination status was not a significant predictor for an unfavorable outcome (P=0.957). However, acute COVID-19 infection remained significant (odds ratio, 1.197 [95% CI, 1.007-1.417]; P=0.041).CONCLUSIONS: Our study demonstrated no impact of COVID-19 vaccination on angiographic or clinical outcome of COVID-19-positive patients with acute ischemic stroke undergoing mechanical thrombectomy, whereas worsening attributable to COVID-19 was confirmed."
+summary: ""
+featured: false
+links:
+  - type: custom
+    name: DOI
+    url: "https://doi.org/10.1161/jaha.123.031816"
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+slides: ""
+---

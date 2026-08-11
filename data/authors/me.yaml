@@ -1,0 +1,94 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Daniel P. O. Kaiser
+  given: Daniel
+  family: Kaiser
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+# Prenominal academic title shown after the name
+postnominals:
+  - PD Dr. med. habil.
+status:
+  icon: "🧠"
+role: Neuroradiologist · Stroke Imaging & Endovascular Therapy Researcher
+
+bio: |
+  Daniel P. O. Kaiser is a physician-scientist (Privatdozent, PD Dr. med. habil.)
+  at the Institute for Diagnostic and Interventional Neuroradiology,
+  University Hospital Carl Gustav Carus Dresden (TU Dresden). His research
+  focuses on acute ischemic stroke — endovascular thrombectomy, advanced
+  neuroimaging for treatment selection, tissue-outcome prediction, and the
+  use of machine learning in neuroradiology. He collaborates in large
+  international, multicenter stroke studies.
+
+affiliations:
+  - name: University Hospital Carl Gustav Carus Dresden (TU Dresden)
+    url: https://www.uniklinikum-dresden.de/
+
+interests:
+  - Endovascular stroke treatment (thrombectomy)
+  - Neuroimaging in acute ischemic stroke
+  - Cerebral perfusion & tissue-outcome prediction
+  - Machine learning in neuroradiology
+  - Interventional neuroradiology
+
+# NOTE: Education dates/degrees below are placeholders — please update with your real details.
+education:
+  - degree: Habilitation (Dr. med. habil.), Neuroradiology
+    institution: TU Dresden
+    start: ''
+    end: ''
+    summary: ''
+  - degree: Dr. med. (Doctorate in Medicine)
+    institution: '‹add university›'
+    start: ''
+    end: ''
+    summary: ''
+  - degree: Medical Degree (Approbation als Arzt)
+    institution: '‹add university›'
+    start: ''
+    end: ''
+    summary: ''
+
+# NOTE: Experience entries below are placeholders — please update with your real roles/dates.
+experience:
+  - role: Neuroradiologist (Facharzt), Diagnostic & Interventional Neuroradiology
+    org: University Hospital Carl Gustav Carus Dresden
+    start: ''
+    end: ''
+    summary: ''
+
+# Skills & hobbies (used by the Experience page). Edit freely.
+skills:
+  - name: Research
+    items:
+      - name: Endovascular thrombectomy
+        icon: hero/bolt
+      - name: Stroke neuroimaging
+        icon: hero/photo
+      - name: Machine learning
+        icon: hero/cpu-chip
+
+awards: []
+
+languages:
+  - name: German
+    percent: 100
+  - name: English
+    percent: 95
+
+links:
+  - icon: at-symbol
+    url: 'mailto:dan_kais@web.de'
+    label: E-mail
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-9007-3160
+  - icon: academicons/google-scholar
+    url: https://scholar.google.de/citations?user=287z6-wAAAAJ
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Daniel-Kaiser-11
+  - icon: brands/github
+    url: https://github.com/Kaiser-Daniel

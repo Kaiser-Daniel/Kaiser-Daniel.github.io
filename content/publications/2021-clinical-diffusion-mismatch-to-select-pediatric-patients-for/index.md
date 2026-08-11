@@ -1,0 +1,73 @@
+---
+title: "Clinical Diffusion Mismatch to Select Pediatric Patients for Embolectomy 6 to 24 Hours After Stroke: An Analysis of the Save ChildS Study"
+authors:
+  - "Save ChildS Investigators"
+  - "Peter B. Sporns"
+  - "Marios Nikos Psychogios"
+  - "Ronald Straeter"
+  - "Uta Hanning"
+  - "Jens Minnerup"
+  - "René Chapot"
+  - "Hans Henkes"
+  - "Elina Henkes"
+  - "Astrid Grams"
+  - "Franziska Dorn"
+  - "Omid Nikoubashman"
+  - "Martin Wiesmann"
+  - "Georg Bier"
+  - "Anushe Weber"
+  - "Gabriel Broocks"
+  - "Jens Fiehler"
+  - "Alex Brehm"
+  - me
+  - "Umut Yilmaz"
+  - "Andrea Morotti"
+  - "Wolfgang Marik"
+  - "Richard Nolz"
+  - "Ulf Jensen-Kondering"
+  - "Michael Braun"
+  - "Stefan Schob"
+  - "Oliver Beuing"
+  - "Friedrich Goetz"
+  - "Johannes Trenkler"
+  - "Bernd Turowski"
+  - "Markus Möhlenbruch"
+  - "Christina Wendl"
+  - "Peter Schramm"
+  - "Patricia L. Musolino"
+  - "Sarah Lee"
+  - "Marc Schlamann"
+  - "Alexander Radbruch"
+  - "André Karch"
+  - "Nicole Rübsamen"
+  - "Moritz Wildgruber"
+  - "André Kemmling"
+  - "Peter B. Sporns"
+  - "Marios Nikos Psychogios"
+  - "Ronald Straeter"
+  - "Uta Hanning"
+  - "Jens Minnerup"
+  - "René Chapot"
+  - "Hans Henkes"
+  - "Elina Henkes"
+  - "Astrid Grams"
+  - me
+date: "2021-01-19T00:00:00Z"
+publishDate: "2021-01-19T00:00:00Z"
+publication_types: ["article-journal"]
+publication: "*Neurology*, *96*(3), E343–E351"
+publication_short: ""
+abstract: "Objective To determine whether thrombectomy is safe in children up to 24 hours after onset of symptoms when selected by mismatch between clinical deficit and infarct.MethodsA secondary analysis of the Save ChildS Study (January 2000-December 2018) was performed, including all pediatric patients (<18 years) diagnosed with arterial ischemic stroke who underwent endovascular recanalization at 27 European and United States stroke centers. Patients were included if they had a relevant mismatch between clinical deficit and infarct.ResultsTwenty children with a median age of 10.5 (interquartile range [IQR] 7-14.6) years were included. Of those, 7 were male (35%), and median time from onset to thrombectomy was 9.8 (IQR 7.8-16.2) hours. Neurologic outcome improved from a median Pediatric NIH Stroke Scale score of 12.0 (IQR 8.8-20.3) at admission to 2.0 (IQR 1.2-6.8) at day 7. Median modified Rankin Scale (mRS) score was 1.0 (IQR 0-1.6) at 3 months and 0.0 (IQR 0-1.0) at 24 months. One patient developed transient peri-interventional vasospasm; no other complications were observed. A comparison of the mRS score to the mRS score in the DAWN and DEFUSE 3 trials revealed a higher proportion of good outcomes in the pediatric compared to the adult study population.ConclusionsThrombectomy in pediatric ischemic stroke in an extended time window of up to 24 hours after onset of symptoms seems safe and neurologic outcomes are generally good if patients are selected by a mismatch between clinical deficit and infarct.Classification of EvidenceThis study provides Class IV evidence that for children with acute ischemic stroke with a mismatch between clinical deficit and infarct size, thrombectomy is safe."
+summary: ""
+featured: false
+links:
+  - type: custom
+    name: DOI
+    url: "https://doi.org/10.1212/WNL.0000000000011107"
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+slides: ""
+---
