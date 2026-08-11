@@ -15,7 +15,7 @@ publication: "*Neurology*, *97*(11), 551–554"
 publication_short: ""
 abstract: ""
 summary: ""
-featured: false
+featured: true
 links:
   - type: custom
     name: DOI

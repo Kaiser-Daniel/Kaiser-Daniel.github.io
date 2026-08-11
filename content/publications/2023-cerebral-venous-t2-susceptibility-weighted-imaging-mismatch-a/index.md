@@ -12,7 +12,7 @@ publication: "*Stroke*, *54*(5), E209–E210"
 publication_short: ""
 abstract: ""
 summary: ""
-featured: false
+featured: true
 links:
   - type: custom
     name: DOI

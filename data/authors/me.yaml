@@ -22,7 +22,8 @@ bio: |
   focuses on acute ischemic stroke — endovascular thrombectomy, advanced
   neuroimaging for treatment selection, tissue-outcome prediction, and the
   use of machine learning in neuroradiology. He collaborates in large
-  international, multicenter stroke studies.
+  international, multicenter stroke studies and has authored more than 90
+  peer-reviewed publications (Web of Science h-index 22).
 
 affiliations:
   - name: University Hospital Carl Gustav Carus Dresden (TU Dresden)
@@ -85,10 +86,10 @@ links:
     url: 'mailto:dan_kais@web.de'
     label: E-mail
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-9007-3160
-  - icon: academicons/google-scholar
-    url: https://scholar.google.de/citations?user=287z6-wAAAAJ
+    url: https://orcid.org/0000-0001-5258-0025
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Daniel-Kaiser-11
+  - icon: academicons/clarivate
+    url: https://www.webofscience.com/wos/author/record/JEF-0990-2023
   - icon: brands/github
     url: https://github.com/Kaiser-Daniel

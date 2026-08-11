@@ -52,7 +52,8 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Highlighted Publications
+      text: Selected first-author papers in high-impact journals.
       filters:
         folders:
           - publications
